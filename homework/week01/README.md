@@ -10,13 +10,13 @@ MSSV: <i>19520218</i></p>
 
 <h3> Bài tập: BOT <br> </h3>
 
-<a href="https://github.com/turkin501/CS112.K21.KHTN/tree/master/homework/week01/BOT">
+<a href="BOT.ipynb">
   BOT
 </a>
 
 <h3> Bài tập: Tảo biển <br> </h3>
 
-<a href="https://github.com/turkin501/CS112.K21.KHTN/tree/master/homework/week01/tao%20bien">
+<a href="TaoBien.ipynb">
   Tảo biển
 </a>
 <br>
