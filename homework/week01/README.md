@@ -5,13 +5,13 @@ MSSV: <i>19522155</i></p>
 <p><b> 	Nguyễn Minh Phú </b><br> 
 MSSV: <i>19520218</i></p>
 
+
+
 <h2> Bài tập: BOT <br> </h2>
 
 <a href="https://github.com/turkin501/CS112.K21.KHTN/tree/master/homework/week01/BOT">
   BOT
 </a>
-<br>
-<br>
 
 <h2> Bài tập: Tảo biển <br> </h2>
 
@@ -19,5 +19,5 @@ MSSV: <i>19520218</i></p>
   Tảo biển
 </a>
 <br>
-<br>
+
 
