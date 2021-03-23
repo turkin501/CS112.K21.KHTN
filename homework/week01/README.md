@@ -4,8 +4,6 @@
 MSSV: <i>19522155</i></p>
 <p><b> 	Nguyễn Minh Phú </b><br> 
 MSSV: <i>19520218</i></p>
-<br>
-<br>
 
 
 <h1> Tuần 1 </h1>
