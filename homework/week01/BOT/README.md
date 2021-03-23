@@ -16,7 +16,7 @@ MSSV: <i>19520218</i></p>
 <div>
 Bài làm của nhóm:
 <a href="BOT.ipynb">
-  
+  BOT
   </a>
 </a>
 </div>
