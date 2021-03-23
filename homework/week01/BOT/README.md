@@ -15,7 +15,7 @@ MSSV: <i>19520218</i></p>
 
 <div>
 Bài làm của nhóm:
-<a href="https://colab.research.google.com/github/khanh-moriaty/CS112.L11.KHTN/blob/master/week01/docs/BOT.ipynb">
+<a href="homework/week01/BOT/BOT.ipynb">
   <div align="">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" />
   </div>
