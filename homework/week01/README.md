@@ -7,18 +7,17 @@ MSSV: <i>19520218</i></p>
 
 <h2> Bài tập: BOT <br> </h2>
 
-<a href="https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1">
-  Đường dẫn đến đề bài
+<a href="https://github.com/turkin501/CS112.K21.KHTN/tree/master/homework/week01/BOT">
+  BOT
 </a>
 <br>
 <br>
 
-<div>
-Bài làm của nhóm:
-<a href="https://colab.research.google.com/github/khanh-moriaty/CS112.L11.KHTN/blob/master/week01/docs/BOT.ipynb">
-  <div align="">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
-  </div>
+<h2> Bài tập: Tảo biển <br> </h2>
+
+<a href="https://github.com/turkin501/CS112.K21.KHTN/tree/master/homework/week01/tao%20bien">
+  Tảo biển
 </a>
-</div>
+<br>
+<br>
 
