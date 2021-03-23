@@ -15,9 +15,8 @@ MSSV: <i>19520218</i></p>
 
 <div>
 Bài làm của nhóm:
-<a href="homework/week01/BOT/BOT.ipynb">
-  <div align="">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
-  </div>
+<a href="BOT.ipynb">
+  
+  </a>
 </a>
 </div>
