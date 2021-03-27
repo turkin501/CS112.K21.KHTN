@@ -1,9 +1,4 @@
-<h1> Nhóm N005 </h1>
-<h2> Các thành viên: </h2>
-<p><b> Phạm Viết Tài </b><br> 
-MSSV: <i>19522155</i></p>
-<p><b> 	Nguyễn Minh Phú </b><br> 
-MSSV: <i>19520218</i></p>
+<h1> Weekly Homework </h1>
 
 
 <h2> Tuần 1 </h2>
