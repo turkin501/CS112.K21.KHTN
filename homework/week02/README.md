@@ -14,5 +14,11 @@
 <a href="KhoaSo.ipynb">
   Khóa Số
 </a>
+
+<h3> Bài tập: Con Đường Gốm Sứ <br> </h3>
+
+<a href="ConDuongGomSu.ipynb">
+  Con Đường Gốm Sứ
+</a>
 <br>
 
