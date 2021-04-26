@@ -10,7 +10,7 @@
 </a>
 
 
-<h3> Bài tập: Số nguyên mới <br> </h3>
+<h3> Bài tập: Đổi Mới <br> </h3>
 
 <a href="DoiMoi.ipynb">
   Đổi Mới
