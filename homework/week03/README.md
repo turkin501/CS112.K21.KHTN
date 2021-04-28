@@ -15,3 +15,10 @@
 <a href="DoiMoi.ipynb">
   Đổi Mới
 </a>
+
+
+<h3> Bài tập: Water Supply <br> </h3>
+
+<a href="WaterSupply.ipynb">
+  Water Supply
+</a>
