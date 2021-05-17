@@ -5,7 +5,7 @@
 
 <h3> B&B N-Queens <br> </h3>
 
-<a href="NQueensB&B.ipynb">
+<a href="NQueenB&B.ipynb">
   NQueensB&B
 </a>
 
