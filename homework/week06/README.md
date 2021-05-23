@@ -9,8 +9,8 @@
   Phân Số
 </a>
 
-<h3> Bài tập: DynamicProgramming <br> </h3>
+<h3> Bài tập về DynamicProgramming  <br> </h3>
 
 <a href="DynamicProgramming.ipynb">
-  Phân Số
+  DynamicProgramming
 </a>
