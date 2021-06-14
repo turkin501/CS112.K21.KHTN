@@ -9,8 +9,16 @@
   Phân Số
 </a>
 
+<h3>Bài tập: Sửa hàng rào  <br> </h3>
+
+<a href="SuaHangRao.ipynb">
+  SuaHangRao
+</a>
+
 <h3> Bài tập về DynamicProgramming  <br> </h3>
 
 <a href="DynamicProgramming.ipynb">
   DynamicProgramming
 </a>
+
+
