@@ -22,3 +22,8 @@
 <a href="WaterSupply.ipynb">
   Water Supply
 </a>
+
+
+<a href="GreedyAlgorithms.ipynb">
+  Greedy Algorithms
+</a>
