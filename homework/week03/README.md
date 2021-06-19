@@ -23,7 +23,7 @@
   Water Supply
 </a>
 
-<br> 
+<h3>  Greedy Algorithms <br> </h3>
 <a href="GreedyAlgorithms.ipynb">
   Greedy Algorithms
 </a>
