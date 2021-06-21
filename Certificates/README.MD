@@ -1,1 +1,1 @@
-This folder contain our certifcates
+This folder contain our CT certifcates
